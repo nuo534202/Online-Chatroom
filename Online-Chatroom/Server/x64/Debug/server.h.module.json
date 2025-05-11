@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Server.h.obj",
+            "outputs": [
+                "C:\\Users\\30853\\Desktop\\Assignment 2\\MySoln\\Server\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\30853\\Desktop\\Assignment 2\\MySoln\\Server\\x64\\Debug\\Server.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Server.h",
+                    "source-path": "c:\\users\\30853\\desktop\\assignment 2\\mysoln\\server\\server.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
