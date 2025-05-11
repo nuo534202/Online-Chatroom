@@ -1,4 +1,0 @@
-﻿  Client.cpp
-C:\Users\30853\Desktop\Assignment 2\MySoln\Client\Client.cpp(104,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\30853\Desktop\Assignment 2\MySoln\Client\Client.cpp(148,1): warning C4715: “recvThread”: 不是所有的控件路径都返回值
-  Client.vcxproj -> C:\Users\30853\Desktop\Assignment 2\MySoln\x64\Debug\Client.exe
