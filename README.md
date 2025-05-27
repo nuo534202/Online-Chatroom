@@ -8,6 +8,8 @@
 4. Double click `Server.exe` to run the `Server` programme.
 5. Double click `Client.exe` to run the `Client` programme.
 
+**Note:** If you want to compile and run the code, you should compile and run it on **Windows** system. **Visual Studio 2022** is the recommended IDE.
+
 ## File Explanation
 
 1. Server
