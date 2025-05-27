@@ -4,7 +4,7 @@
 
 1. Download the zip file.
 2. Unzip the `Online-Chatroom-main.zip` folder.
-3. Go to `Online-Chatroom-main\Online-Chatroom-main\Online-Chatroom\MySoln\x64\Debug` file.
+3. Go to `Online-Chatroom-main\Online-Chatroom-main\Online-Chatroom\x64\Debug` file.
 4. Double click `Server.exe` to run the `Server` programme.
 5. Double click `Client.exe` to run the `Client` programme.
 
